@@ -1,0 +1,29 @@
+{
+  "session_id": "7e9267b0-d8d7-42ba-a7fb-ca98cf28a58a",
+  "role": "product designer",
+  "seniority": "intern",
+  "questions": [
+    {
+      "question_id": "1",
+      "question_text": "Tell me about a time you had to balance multiple design projects with competing deadlines. How did you prioritize and manage your workload?",
+      "transcript": "So yes, there was a time when I had to manage multiple design projects with competing deadlines. Like one was at 11 and another one was at 12. So what I did was, I prioritized my task. I planned my day accordingly and worked on what was more important. And for example, 11 o'clock deadline was more closer, so I worked on that and then gave my extra effort for the 12 o'clock one. So yeah, that's how I did it.",
+      "content_score": 3,
+      "structure_score": 4,
+      "clarity_score": 5,
+      "confidence_score": 6,
+      "feedback": "Your answer acknowledges the prompt directly but lacks specific details to be impactful. To improve, describe the *types* and *complexity* of the design projects involved. Explain your prioritization criteria beyond just the nearest deadline, perhaps mentioning impact or dependencies. Most importantly, detail the specific actions you took for *each* project and the positive outcome of your management, ideally using the STAR method. This will provide a much clearer and more compelling picture of your capabilities.",
+      "expression": {
+        "dominant_emotion": "happy",
+        "emotion_scores": {
+          "angry": 0.11,
+          "disgust": 0.0,
+          "fear": 0.10000000000000002,
+          "happy": 0.3,
+          "sad": 0.25333333333333335,
+          "surprise": 0.01,
+          "neutral": 0.22666666666666668
+        }
+      }
+    }
+  ]
+}

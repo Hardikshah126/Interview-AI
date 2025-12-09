@@ -1,0 +1,29 @@
+{
+  "session_id": "86cea2d7-6627-411b-a194-595e20074425",
+  "role": "software engineer",
+  "seniority": "intern",
+  "questions": [
+    {
+      "question_id": "1",
+      "question_text": "Tell me about a time you had to learn a new technology quickly for a project. How did you approach it, and what was the outcome?",
+      "transcript": "bl\u00e1 bl\u00e1 bl\u00e1 bl\u00e1 bl\u00e1 bl\u00e1",
+      "content_score": 1,
+      "structure_score": 1,
+      "clarity_score": 1,
+      "confidence_score": 1,
+      "feedback": "Unfortunately, the provided response 'bl\u00e1 bl\u00e1 bl\u00e1 bl\u00e1 bl\u00e1 bl\u00e1' contains no discernible content. As such, it is impossible to evaluate your ability to answer the question, demonstrate relevant skills, or assess any of the scoring criteria. To receive a proper evaluation, please provide a detailed answer describing a real experience where you learned a new technology for a project.",
+      "expression": {
+        "dominant_emotion": "angry",
+        "emotion_scores": {
+          "angry": 0.3482587064676617,
+          "disgust": 0.0,
+          "fear": 0.13432835820895525,
+          "happy": 0.23880597014925375,
+          "sad": 0.11442786069651743,
+          "surprise": 0.019900497512437814,
+          "neutral": 0.14427860696517417
+        }
+      }
+    }
+  ]
+}

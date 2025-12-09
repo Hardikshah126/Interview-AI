@@ -1,0 +1,24 @@
+# ---- Core Backend ----
+fastapi
+uvicorn[standard]
+python-multipart        # for file uploads
+pydantic
+python-dotenv
+
+# ---- Google Gemini ----
+google-generativeai     # main GenAI SDK
+
+# ---- NLP / Transformers (optional, for sentiment/emotion NLP) ----
+transformers
+torch                   # required for many HF models
+
+# ---- Video Processing & Facial Expression ----
+opencv-python
+fer                     # FER = Facial Emotion Recognition
+
+# ---- PDF Parsing ----
+PyPDF2
+
+# ---- Utility ----
+numpy
+reportlab

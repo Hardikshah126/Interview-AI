@@ -1,0 +1,29 @@
+{
+  "session_id": "22420bdb-053d-4a34-ad28-155687988e48",
+  "role": "product designer",
+  "seniority": "intern",
+  "questions": [
+    {
+      "question_id": "1",
+      "question_text": "Tell me about a time you had to balance competing design priorities on a project. How did you decide what to focus on?",
+      "transcript": "Hello hello uh huh hello okay ya is uh uh compiling designed the priority I would like to focus on it I don't know and",
+      "content_score": 5,
+      "structure_score": 5,
+      "clarity_score": 5,
+      "confidence_score": 5,
+      "feedback": "AI could not parse a detailed evaluation, but overall this was an average answer.",
+      "expression": {
+        "dominant_emotion": "neutral",
+        "emotion_scores": {
+          "angry": 0.08253816793893133,
+          "disgust": 0.0,
+          "fear": 0.11975190839694659,
+          "happy": 0.019561068702290078,
+          "sad": 0.04341603053435115,
+          "surprise": 0.025286259541984737,
+          "neutral": 0.7094465648854961
+        }
+      }
+    }
+  ]
+}

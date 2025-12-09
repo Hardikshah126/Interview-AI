@@ -1,0 +1,51 @@
+{
+  "session_id": "4c49cbf0-eabe-4aff-ab37-d23aa39bef8d",
+  "role": "software engineer",
+  "seniority": "junior",
+  "questions": [
+    {
+      "question_id": "1",
+      "question_text": "Tell me about a time you had to learn a new technology or framework quickly for a project. How did you approach it?",
+      "transcript": "So yeah, there was a time when I had to learn new technologies and frameworks. So I used the chat GPT to learn and other syntax and everything. So it really helped me a lot using AI nowadays. It acts as a coding buddy for you and it makes the task easier and I believe in learning while building. So I build it, build it for the project, will use the new technology and framework for the project while learning it. So yes.",
+      "content_score": 3,
+      "structure_score": 4,
+      "clarity_score": 5,
+      "confidence_score": 6,
+      "feedback": "Your answer acknowledges the question but lacks a specific example. To improve, use the STAR method: describe a specific Situation (the project), the Task (the technology/framework), the Actions you took (specific steps beyond just 'syntax and everything,' including how you utilized AI and other resources), and the Result or outcome. Naming the specific technology/framework and discussing any challenges encountered would also significantly strengthen your response.",
+      "expression": {
+        "dominant_emotion": "neutral",
+        "emotion_scores": {
+          "angry": 0.0683425835237784,
+          "disgust": 0.0016323865491348353,
+          "fear": 0.18108608118402433,
+          "happy": 0.05539231690064203,
+          "sad": 0.14071172053542283,
+          "surprise": 0.08488410055501143,
+          "neutral": 0.46795081075198613
+        }
+      }
+    },
+    {
+      "question_id": "2",
+      "question_text": "Describe the process of designing and implementing your Smart Entry-Exit Monitoring System. What were the key technical challenges, and how did you overcome them?",
+      "transcript": "So the main technical challenge was to get a large data set for the entry system and I used the sample one because we didn't get the large one.",
+      "content_score": 1,
+      "structure_score": 3,
+      "clarity_score": 7,
+      "confidence_score": 6,
+      "feedback": "Your answer was very brief and only partially addressed the question. While identifying data acquisition as a challenge is valid, you missed describing the design and implementation process entirely. To improve, elaborate on the specific steps you took to overcome the challenge, instead of just stating a limitation, and discuss other technical challenges faced during the project. Providing more detail about technologies used and your problem-solving approach would significantly strengthen your response.",
+      "expression": {
+        "dominant_emotion": "neutral",
+        "emotion_scores": {
+          "angry": 0.017931034482758627,
+          "disgust": 0.0,
+          "fear": 0.18793103448275864,
+          "happy": 0.053103448275862095,
+          "sad": 0.10206896551724137,
+          "surprise": 0.13034482758620689,
+          "neutral": 0.5086206896551724
+        }
+      }
+    }
+  ]
+}

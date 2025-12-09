@@ -1,0 +1,29 @@
+{
+  "session_id": "c3602565-968f-4289-8ab8-9cadd3011df6",
+  "role": "product designer",
+  "seniority": "intern",
+  "questions": [
+    {
+      "question_id": "1",
+      "question_text": "Tell me about a time you had to balance conflicting design feedback from different stakeholders. How did you approach it?",
+      "transcript": "Okay. Yes, okay. Yeah. Okay, okay. Yeah, yes, yes. Now, the stakeholders, how do you approach it?",
+      "content_score": 5,
+      "structure_score": 5,
+      "clarity_score": 5,
+      "confidence_score": 5,
+      "feedback": "AI could not parse a detailed evaluation, but overall this was an average answer.",
+      "expression": {
+        "dominant_emotion": "neutral",
+        "emotion_scores": {
+          "angry": 0.0675883256528418,
+          "disgust": 0.0,
+          "fear": 0.0783410138248848,
+          "happy": 0.07296466973886331,
+          "sad": 0.0349462365591398,
+          "surprise": 0.07488479262672812,
+          "neutral": 0.6712749615975422
+        }
+      }
+    }
+  ]
+}

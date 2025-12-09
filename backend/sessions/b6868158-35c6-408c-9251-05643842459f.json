@@ -1,0 +1,29 @@
+{
+  "session_id": "b6868158-35c6-408c-9251-05643842459f",
+  "role": "product designer",
+  "seniority": "intern",
+  "questions": [
+    {
+      "question_id": "1",
+      "question_text": "Tell me about your experience designing responsive UIs for web platforms. What were some of the key challenges you encountered and how did you address them to ensure a seamless user journey?",
+      "transcript": "Hello hello hello hello mic mic test mic test one two three one two three one two three No problem test. Yes.",
+      "content_score": 1,
+      "structure_score": 1,
+      "clarity_score": 1,
+      "confidence_score": 1,
+      "feedback": "The candidate did not provide an answer to the interview question regarding their experience with responsive UI design. Their response appeared to be a microphone check. This indicates a significant technical issue or a misunderstanding of the interview process itself. It is critical to pause and ensure the candidate can clearly hear and understand the questions before proceeding. Resolving any audio or comprehension issues is the immediate next step.",
+      "expression": {
+        "dominant_emotion": "neutral",
+        "emotion_scores": {
+          "angry": 0.297029702970297,
+          "disgust": 0.0297029702970297,
+          "fear": 0.18811881188118812,
+          "happy": 0.019801980198019802,
+          "sad": 0.13861386138613863,
+          "surprise": 0.009900990099009901,
+          "neutral": 0.31683168316831684
+        }
+      }
+    }
+  ]
+}

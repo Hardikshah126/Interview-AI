@@ -1,0 +1,43 @@
+{
+  "session_id": "2a821f47-7e4d-44dd-af96-822c3c772095",
+  "role": "product designer",
+  "seniority": "intern",
+  "questions": [
+    {
+      "question_id": "1",
+      "question_text": "Tell me about a time you had to balance multiple design projects with competing deadlines. How did you prioritize, and what was the outcome?",
+      "transcript": "when I had multiple design projects I planned my day accordingly and prioritized what was important so for example I had two projects one was at 11 PM and another was at 12 PM so I worked on the 11 PM project first and then the 12 PM one so my day was planned accordingly",
+      "content_score": 2,
+      "structure_score": 1,
+      "clarity_score": 4,
+      "confidence_score": 4,
+      "feedback": "Your response was quite general and lacked the specific details an interviewer looks for. To improve, structure your answer using the STAR method (Situation, Task, Action, Result) to clearly articulate your experience. Focus on explaining *how* you prioritized beyond just sequential deadlines, perhaps by mentioning factors like project impact, complexity, or resource allocation. Crucially, don't forget to describe the positive outcome of your actions, demonstrating your effectiveness in balancing competing priorities.",
+      "expression": {
+        "dominant_emotion": "angry",
+        "emotion_scores": {
+          "angry": 0.37,
+          "disgust": 0.0,
+          "fear": 0.11,
+          "happy": 0.12,
+          "sad": 0.25,
+          "surprise": 0.02,
+          "neutral": 0.13
+        }
+      }
+    },
+    {
+      "question_id": "2",
+      "question_text": "Describe your process for designing a responsive UI for a web platform, from initial concept to final delivery.",
+      "transcript": "So first I start with wireframing on my notebook and then I skip it on Figma low fidelity high fidelity then I make it responsive then I do the final delivery.",
+      "content_score": 3,
+      "structure_score": 5,
+      "clarity_score": 6,
+      "confidence_score": 4,
+      "feedback": "Your answer provides a high-level overview of some tools and basic phases you use, moving from wireframing to Figma and then making it responsive. To enhance your response, elaborate on the crucial steps that precede and follow these actions, such as initial user research, defining requirements, and understanding user flows. Additionally, describe *how* you specifically approach making a UI responsive (e.g., breakpoints, fluid layouts, testing) and what your 'final delivery' entails for a development team. Providing more detail about your thought process and methodology would demonstrate a more comprehensive understanding of the entire design process. Consider refining phrases like 'skip it on Figma' for clearer communication.",
+      "expression": {
+        "dominant_emotion": "unknown",
+        "emotion_scores": {}
+      }
+    }
+  ]
+}
